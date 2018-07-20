@@ -1,4 +1,4 @@
-## gradient Code
+## gradient Code for Udacity Data Scientist exercise
 From before we saw that one weight update can be calculated as:
 Δwi=ηδxi
 with the error term  δ as
